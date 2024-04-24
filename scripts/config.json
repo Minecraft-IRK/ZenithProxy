@@ -1,0 +1,18 @@
+{
+    "server": {
+        "bind": {
+            "port": "25565"
+        },
+        "proxyIP": "localhost"
+    },
+    "discord": {
+        "enable": false,
+        "token": "",
+        "channelId": "",
+        "accountOwnerRoleId": "",
+        "chatRelay": {
+            "enable": false,
+            "channelId": ""
+        }
+    }
+}
